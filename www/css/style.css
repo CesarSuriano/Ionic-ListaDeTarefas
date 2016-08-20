@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+.checkbox{
+	width: calc(100% - 60px);
+	height: 50px;
+}
+.checkbox span{
+	line-height: 40px;
+}
+
+.excluir{
+	width: 60px;
+	height: 50px;
+	float:right;
+}

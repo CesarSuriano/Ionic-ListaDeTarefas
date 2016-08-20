@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "app_id": "0f24f3cb",
+  "browsers": [
+    {
+      "platform": "android",
+      "browser": "crosswalk",
+      "version": "12.41.296.5"
+    }
+  ]
+}
